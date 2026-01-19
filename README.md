@@ -4,7 +4,7 @@ Je suis étudiant en **école d’ingénieur en informatique**, et je me spécia
 
 Je m’intéresse particulièrement au :
 - 🔍 **Reverse Engineering** (*en cours d'apprentissage...*)
-- 🛡️ **Pentese, Forensic, Offensive Security** (*en cours d'apprentissage...*)
+- 🛡️ **Pentest, Forensic, Offensive Security** (*en cours d'apprentissage...*)
 - 🧾 **OSINT**
 
 🔐 Je travaille actuellement sur **Canary**, un Proof-of-Concept en **FastAPI** permettant de générer des variantes watermarkées d’un email et d’attribuer une éventuelle fuite grâce à des empreintes (**hashs**).
