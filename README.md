@@ -1,28 +1,28 @@
-# 💫 À propos de moi :
-Salut ! Moi c’est **Daniel** 👋  
-Je suis étudiant en **école d’ingénieur en informatique**, et je me spécialise en **cybersécurité**. Curieux et très motivé, j’aime apprendre et découvrir des choses nouvelles.
+## À propos de moi
 
-Je m’intéresse particulièrement au :
-- 🔍 **Reverse Engineering** (*en cours d'apprentissage...*)
-- 🛡️ **Pentest, Forensic, Offensive Security** (*en cours d'apprentissage...*)
-- 🧾 **OSINT**
+Je suis **Daniel** 👋
+Élève ingénieur en informatique à l'EFREI Paris, majeure Cybersécurité, infrastructure et logiciel.
+Je travaille sur la détection et la supervision (SIEM, pare-feu, journalisation) ainsi que sur les techniques d'attaque (pentest, reverse engineering, OSINT).
 
-🔐 Je travaille actuellement sur **Canary**, un Proof-of-Concept en **FastAPI** permettant de générer des variantes watermarkées d’un email et d’attribuer une éventuelle fuite grâce à des empreintes (**hashs**).
+### 🔭 Projets
 
+- **HORUS** : déploiement d'un SIEM/XDR **Wazuh** sur une infra multi-OS (Ubuntu, Windows, pfSense). Règles de détection personnalisées, Active Response, alertes Slack, mapping MITRE ATT&CK, validé par des attaques simulées (Hydra, Nmap) depuis Kali.
+- **Ethical Hacking** : simulation des 5 phases d'un test d'intrusion sur une entreprise fictive, avec phishing, vishing (voix de synthèse) et fichier piégé, et un axe sensibilisation.
+- **Sécurité Réseaux (MediConnect)** : architecture réseau sécurisée pour une plateforme de rendez-vous médicaux, sous **pfSense**, avec supervision **Wazuh**.
+- **Canary** : Proof of Concept en **FastAPI** qui génère des variantes watermarkées d'un email pour remonter à l'origine d'une fuite grâce à des empreintes SHA256.
 
+### 📚 En apprentissage
 
-## 🌐 Réseaux :
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/daniel-aleksic/) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:danielaleksic19@gmail.com)
+Reverse engineering, Pentest, Sécurité Offensive et Défensive
 
+### 🛠️ Compétences
 
-# 💻 Tech Stack :
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+**Cybersécurité :** Wazuh (SIEM/XDR), MITRE ATT&CK, Kali Linux, pentest web (SQLi, XSS), attaques réseau (ARP spoofing, DNS poisoning), OSINT, cryptographie
+**Réseaux :** TCP/IP, Nmap, Wireshark, pfSense, Stormshield, OpenVPN, PKI / TLS
+**Systèmes :** Active Directory, Linux, Windows, VMware, VirtualBox
+**Développement :** Python, C, Java, Bash, SQL
+
+### 🌐 Contact
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-aleksic/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:danielaleksic19@gmail.com)
