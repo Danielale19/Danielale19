@@ -99,7 +99,7 @@ majeure : Cybersécurité, Infrastructure & Logiciel
 
 <div align="center">
 
-[![MediConnect](https://github-readme-stats.vercel.app/api/pin/?username=Danielale19&repo=mediconnect-secure-network&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&border_color=30363d)](https://github.com/Danielale19/mediconnect-secure-network)
+[![MediConnect](https://img.shields.io/badge/voir_le_repo-mediconnect--secure--network-161b22?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/Danielale19/mediconnect-secure-network)
 
 </div>
 
