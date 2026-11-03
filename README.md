@@ -143,10 +143,9 @@ attack-chain/
 |:-:|---|---|---|:-:|
 | 🏥 | **[MediConnect](https://github.com/Danielale19/mediconnect-secure-network)** | Architecture réseau sécurisée d'une plateforme de prise de RDV médicaux | `pfSense` `Wazuh` `Suricata` | 🟢 |
 | 🗡️ | **[Projet d'ethical hacking](https://github.com/Danielale19/ethical-hacking)** | Simulation d'attaque complète en 5 phases sur une entreprise fictive | `Kali` `msfvenom` `Hydra` | 🟢 |
-| 👁️ | **OSIRIS / HORUS** | Déploiement SIEM/XDR : FIM, active response, alertes Slack, logs pfSense, détection de brute-force SSH | `Wazuh` `pfSense` `Kali` | 🟢 |
+| 👁️ | **[HORUS](https://github.com/Danielale19/HORUS/tree/main)** | Déploiement SIEM/XDR : FIM, active response, alertes Slack, logs pfSense, détection de brute-force SSH | `Wazuh` `pfSense` `Kali` | 🟢 |
 | 🐤 | **[CANARY](https://github.com/Danielale19/Canary)** | Traçage de fuite de documents : une variante unique par destinataire + empreinte SHA256 pour remonter à la source | `Python` `SHA256` | 🟢 |
 | 🛰️ | **[arp-guard](https://github.com/Danielale19/arp-guard)** | Détecteur d'ARP spoofing, testé en lab Kali (attaquant) vs Ubuntu (victime) | `Python` `Scapy` `pytest` | 🟢 |
-| 🩹 | **Patch Management** | Gestion centralisée des mises à jour de postes Windows à distance | `PowerShell` `WinRM` | 🟢 |
 | 🍯 | **Honeypot SSH** | Déploiement et analyse d'un honeypot SSH | `Cowrie` `Python` | ⚪ |
 
 <sub>🟢 terminé · ⚪ prévu</sub>
