@@ -117,6 +117,12 @@ mediconnect/
 
 #### 🗡️ Projet d'ethical hacking — simulation d'attaque en 5 phases
 
+<div align="center">
+
+[![Ethical Hacking](https://img.shields.io/badge/voir_le_repo-ethical--hacking-161b22?style=for-the-badge&logo=github&logoColor=00ff9c)](https://github.com/Danielale19/ethical-hacking)
+
+</div>
+
 ```bash
 attack-chain/
 ├── 01_reconnaissance   → OSINT (LinkedIn, Sherlock, HIBP)
