@@ -179,7 +179,7 @@ attack-chain/
 
 <br><br>
 
-<img src="https://tryhackme-badges.s3.amazonaws.com/TON_PSEUDO_THM.png" alt="TryHackMe" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/daniel.asm0.png" alt="TryHackMe" />
 
 <br><br>
 
