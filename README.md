@@ -6,7 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40daniel%3A~%23+.%2Finit.sh+--cyber;%C3%89tudiant+ing%C3%A9nieur+%E2%80%A2+4e+ann%C3%A9e;Cybers%C3%A9curit%C3%A9%2C+Infrastructure+%26+Logiciel;Pentest+%E2%80%A2+SOC+%E2%80%A2+R%C3%A9seau+s%C3%A9curis%C3%A9)](https://github.com/Danielale19)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/daniel-aleksic/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iIzAwZmY5YyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8%2BPC9zdmc%2B)](https://www.linkedin.com/in/daniel-aleksic/)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/daniel.asm0)
 [![Root-Me](https://img.shields.io/badge/Root--Me-161b22?style=for-the-badge&logo=hackaday&logoColor=00ff9c)](https://www.root-me.org/daniel.asm)
 
@@ -189,9 +189,11 @@ attack-chain/
 <div align="center">
 
 ```bash
+
 ┌──(daniel㉿lab)-[~]
 └─$ nc -lvnp 443
 listening on [any] 443 ... envie d'échanger sur un projet ou un lab ? → LinkedIn
+
 ```
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:0d1117&height=120&section=footer)
