@@ -19,7 +19,7 @@
 ```bash
 ┌──(daniel㉿lab)-[~]
 └─$ whoami
-daniel — étudiant en école d'ingénieur, 4e année
+daniel — étudiant en école d\'ingénieur, 4e année
 majeure : Cybersécurité, Infrastructure & Logiciel
 
 ┌──(daniel㉿lab)-[~]
@@ -27,7 +27,7 @@ majeure : Cybersécurité, Infrastructure & Logiciel
 [*] terrain de jeu : labs perso, TryHackMe, Root-Me
 [*] en exploration : reverse engineering
 [*] associatif     : asso étudiante sécurité & défense, tutorat
-[*] centres d'int. : veille cyber, géopolitique
+[*] centres d\'int. : veille cyber, géopolitique
 [*] langues        : 🇫🇷 C2 · 🇬🇧 en B2+ · 🇷🇸 B2 · 🇷🇴 B2
 ```
 
