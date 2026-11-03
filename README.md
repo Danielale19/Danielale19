@@ -169,17 +169,11 @@ attack-chain/
 ```
 
 ---
-
 ### 📊 `htop --github`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Danielale19&show_icons=true&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&icon_color=00ff9c&border_color=30363d&custom_title=~/stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielale19&layout=compact&bg_color=0d1117&title_color=00ff9c&text_color=c9d1d9&border_color=30363d&custom_title=~/langages" />
-
-<br><br>
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/daniel.asm0.png" alt="TryHackMe" />
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-daniel.asm0-161b22?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/daniel.asm0)
 
 <br><br>
 
