@@ -28,7 +28,7 @@ majeure : Cybersécurité, Infrastructure & Logiciel
 [*] en exploration : reverse engineering
 [*] associatif     : asso étudiante sécurité & défense, tutorat
 [*] centres d'int. : veille cyber, géopolitique
-[*] langues        : 🇫🇷 fr · 🇬🇧 en (B2+) · 🇷🇸 sr · 🇷🇴 ro
+[*] langues        : 🇫🇷 C2 · 🇬🇧 en B2+ · 🇷🇸 B2 · 🇷🇴 B2
 ```
 
 ---
@@ -121,8 +121,8 @@ mediconnect/
 attack-chain/
 ├── 01_reconnaissance   → OSINT (LinkedIn, Sherlock, HIBP)
 ├── 02_scanning         → cartographie réseau avec Nmap
-├── 03_gaining_access   → vishing (voix synthétique) + Excel piégé (payload msfvenom)
-│                         élévation SYSTEM via CVE-2021-34527
+├── 03_gaining_access   → vishing (voix synthétique Voicebox) + Excel piégé (payload reverse shell msfvenom)
+│                         élévation SYSTEM via CVE-2021-1675
 ├── 04_maintaining      → persistance, reconnaissance interne, pivot SSH (proxychains),
 │                         brute-force Hydra, extraction de données
 └── 05_covering_tracks  → effacement des traces
@@ -169,13 +169,9 @@ attack-chain/
 ```
 
 ---
-### 📊 `htop --github`
+### 🐍 `tail -f activity.log`
 
 <div align="center">
-
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-daniel.asm0-161b22?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/daniel.asm0)
-
-<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Danielale19/Danielale19/output/github-snake-dark.svg" />
@@ -186,15 +182,13 @@ attack-chain/
 
 ---
 
-<div align="center">
-
 ```bash
-
 ┌──(daniel㉿lab)-[~]
 └─$ nc -lvnp 443
 listening on [any] 443 ... envie d'échanger sur un projet ou un lab ? → LinkedIn
-
 ```
+
+<div align="center">
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f5132,100:0d1117&height=120&section=footer)
 
