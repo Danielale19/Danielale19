@@ -7,8 +7,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=00FF9C&center=true&vCenter=true&width=650&lines=root%40daniel%3A~%23+.%2Finit.sh+--cyber;%C3%89tudiant+ing%C3%A9nieur+%E2%80%A2+4e+ann%C3%A9e;Cybers%C3%A9curit%C3%A9%2C+Infrastructure+%26+Logiciel;Pentest+%E2%80%A2+SOC+%E2%80%A2+R%C3%A9seau+s%C3%A9curis%C3%A9)](https://github.com/Danielale19)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=for-the-badge&logo=linkedin&logoColor=00ff9c)](https://www.linkedin.com/in/daniel-aleksic/)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/TON_PSEUDO_THM)
-[![Root-Me](https://img.shields.io/badge/Root--Me-161b22?style=for-the-badge&logo=hackaday&logoColor=00ff9c)](https://www.root-me.org/TON_PSEUDO_ROOTME)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-161b22?style=for-the-badge&logo=tryhackme&logoColor=00ff9c)](https://tryhackme.com/p/daniel.asm0)
+[![Root-Me](https://img.shields.io/badge/Root--Me-161b22?style=for-the-badge&logo=hackaday&logoColor=00ff9c)](https://www.root-me.org/daniel.asm)
 
 ![visiteurs](https://komarev.com/ghpvc/?username=Danielale19&label=visiteurs%20d%C3%A9tect%C3%A9s&color=00ff9c&style=flat-square)
 
