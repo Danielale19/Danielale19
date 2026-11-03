@@ -43,52 +43,51 @@ majeure : Cybersécurité, Infrastructure & Logiciel
 
 `🛡️ blue_team/`
 
-![CrowdStrike](https://img.shields.io/badge/CrowdStrike-161b22?style=for-the-badge&logo=crowdstrike&logoColor=00ff9c)
-![SentinelOne](https://img.shields.io/badge/SentinelOne-161b22?style=for-the-badge&logo=sentinelone&logoColor=00ff9c)
-![Exabeam](https://img.shields.io/badge/Exabeam-161b22?style=for-the-badge&logoColor=00ff9c)
-![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge&logo=wazuh&logoColor=00ff9c)
-![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge&logoColor=00ff9c)
-![n8n](https://img.shields.io/badge/n8n-161b22?style=for-the-badge&logo=n8n&logoColor=00ff9c)
+![CrowdStrike](https://img.shields.io/badge/CrowdStrike-161b22?style=for-the-badge)
+![SentinelOne](https://img.shields.io/badge/SentinelOne-161b22?style=for-the-badge)
+![Exabeam](https://img.shields.io/badge/Exabeam-161b22?style=for-the-badge)
+![Wazuh](https://img.shields.io/badge/Wazuh-161b22?style=for-the-badge)
+![Suricata](https://img.shields.io/badge/Suricata-161b22?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-161b22?style=for-the-badge)
 
 `🌐 network/`
 
-![pfSense](https://img.shields.io/badge/pfSense-161b22?style=for-the-badge&logo=pfsense&logoColor=00ff9c)
-![Palo Alto](https://img.shields.io/badge/Palo_Alto-161b22?style=for-the-badge&logo=paloaltonetworks&logoColor=00ff9c)
-![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-161b22?style=for-the-badge&logoColor=00ff9c)
-![OpenVPN](https://img.shields.io/badge/OpenVPN-161b22?style=for-the-badge&logo=openvpn&logoColor=00ff9c)
-![IPsec](https://img.shields.io/badge/IPsec-161b22?style=for-the-badge&logoColor=00ff9c)
-![OpenLDAP](https://img.shields.io/badge/OpenLDAP-161b22?style=for-the-badge&logoColor=00ff9c)
-![PKI](https://img.shields.io/badge/PKI_%2F_mTLS-161b22?style=for-the-badge&logo=letsencrypt&logoColor=00ff9c)
-![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge&logo=wireshark&logoColor=00ff9c)
+![pfSense](https://img.shields.io/badge/pfSense-161b22?style=for-the-badge)
+![Palo Alto](https://img.shields.io/badge/Palo_Alto-161b22?style=for-the-badge)
+![Extreme Networks](https://img.shields.io/badge/Extreme_Networks-161b22?style=for-the-badge)
+![OpenVPN](https://img.shields.io/badge/OpenVPN-161b22?style=for-the-badge)
+![IPsec](https://img.shields.io/badge/IPsec-161b22?style=for-the-badge)
+![OpenLDAP](https://img.shields.io/badge/OpenLDAP-161b22?style=for-the-badge)
+![PKI](https://img.shields.io/badge/PKI_%2F_mTLS-161b22?style=for-the-badge)
+![Wireshark](https://img.shields.io/badge/Wireshark-161b22?style=for-the-badge)
 
 `🗡️ red_team/`
 
-![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge&logo=kalilinux&logoColor=00ff9c)
-![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge&logo=metasploit&logoColor=00ff9c)
-![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge&logoColor=00ff9c)
-![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge&logoColor=00ff9c)
-![proxychains](https://img.shields.io/badge/proxychains-161b22?style=for-the-badge&logoColor=00ff9c)
-![OSINT](https://img.shields.io/badge/OSINT-161b22?style=for-the-badge&logoColor=00ff9c)
-![OWASP](https://img.shields.io/badge/OWASP-161b22?style=for-the-badge&logo=owasp&logoColor=00ff9c)
+![Kali](https://img.shields.io/badge/Kali_Linux-161b22?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-161b22?style=for-the-badge)
+![Nmap](https://img.shields.io/badge/Nmap-161b22?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-161b22?style=for-the-badge)
+![proxychains](https://img.shields.io/badge/proxychains-161b22?style=for-the-badge)
+![OSINT](https://img.shields.io/badge/OSINT-161b22?style=for-the-badge)
+![OWASP](https://img.shields.io/badge/OWASP-161b22?style=for-the-badge)
 
 `⚙️ systems/`
 
-![Active Directory](https://img.shields.io/badge/Active_Directory-161b22?style=for-the-badge&logoColor=00ff9c)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-161b22?style=for-the-badge&logo=virtualbox&logoColor=00ff9c)
-![VMware](https://img.shields.io/badge/ESXi_%2F_vSphere-161b22?style=for-the-badge&logo=vmware&logoColor=00ff9c)
-![WinRM](https://img.shields.io/badge/WinRM-161b22?style=for-the-badge&logoColor=00ff9c)
+![Active Directory](https://img.shields.io/badge/Active_Directory-161b22?style=for-the-badge)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-161b22?style=for-the-badge)
+![VMware](https://img.shields.io/badge/ESXi_%2F_vSphere-161b22?style=for-the-badge)
+![WinRM](https://img.shields.io/badge/WinRM-161b22?style=for-the-badge)
 
 `🔒 loading.../` *— en cours de déblocage*
 
-![Ghidra](https://img.shields.io/badge/Ghidra-161b22?style=for-the-badge&logoColor=6e7681)
-![x64dbg](https://img.shields.io/badge/x64dbg-161b22?style=for-the-badge&logoColor=6e7681)
-![eJPT](https://img.shields.io/badge/eJPT-161b22?style=for-the-badge&logo=hackaday&logoColor=6e7681)
-![Forensic](https://img.shields.io/badge/Forensic-161b22?style=for-the-badge&logoColor=6e7681)
-![AD avancé](https://img.shields.io/badge/AD_avanc%C3%A9-161b22?style=for-the-badge&logoColor=6e7681)
-![EDR](https://img.shields.io/badge/EDR-161b22?style=for-the-badge&logoColor=6e7681)
-![Azure](https://img.shields.io/badge/Azure-161b22?style=for-the-badge&logoColor=6e7681)
-![Red Hat](https://img.shields.io/badge/Red_Hat-161b22?style=for-the-badge&logo=redhat&logoColor=6e7681)
-
+![Ghidra](https://img.shields.io/badge/Ghidra-0d1117?style=for-the-badge)
+![x64dbg](https://img.shields.io/badge/x64dbg-0d1117?style=for-the-badge)
+![eJPT](https://img.shields.io/badge/eJPT-0d1117?style=for-the-badge)
+![Forensic](https://img.shields.io/badge/Forensic-0d1117?style=for-the-badge)
+![AD avancé](https://img.shields.io/badge/AD_avanc%C3%A9-0d1117?style=for-the-badge)
+![EDR](https://img.shields.io/badge/EDR-0d1117?style=for-the-badge)
+![Azure](https://img.shields.io/badge/Azure-0d1117?style=for-the-badge)
+![Red Hat](https://img.shields.io/badge/Red_Hat-0d1117?style=for-the-badge)
 </div>
 
 ---
