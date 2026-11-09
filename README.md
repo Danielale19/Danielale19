@@ -104,7 +104,7 @@ majeure : Cybersécurité, Infrastructure & Logiciel
 
 ```bash
 mediconnect/
-├── segmentation    → 6 zones pfSense : DMZ isolée, bastion d'admin, refus par défaut
+├── segmentation    → 6 zones pfSense : DMZ isolée, bastion d\'admin, refus par défaut
 ├── accès distant   → VPN IPsec IKEv2 + OpenVPN par profil
 ├── identité        → OpenLDAP (LDAPS), PKI interne, accès médecins en mTLS
 ├── filtrage        → règles par groupe LDAP : support, admins, commerciaux
